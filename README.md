@@ -5,11 +5,11 @@ In this tutorial we can learn by creating seperate components in seperate files 
 
 
 ## Step1: Bootstrapping the React App
-> create-react-app hello-world 
+### > create-react-app hello-world 
 this is the creation of react app biolerplate code 
 
 Starting the server
-> npm start 
+### > npm start 
 to start the server, and default react app will load here.
 
 
