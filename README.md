@@ -1,4 +1,4 @@
-# Frist program in ReactJS - 'Hello World' 
+# First program in ReactJS - 'Hello World' 
 
 
 In this tutorial we can learn by creating seperate components in seperate files and loading in App.js 
