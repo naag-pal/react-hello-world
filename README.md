@@ -92,5 +92,9 @@ class Intro extends Component {
 export default Intro;
 ```
 
+# How to get the code and run on your machine
 
-
+1. Download or git clone the repository
+2. npm i - to install all the required modules
+3. npm start - to start the server 
+4. http://localhost:3000 the browser will show the output. 
