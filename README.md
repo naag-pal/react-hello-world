@@ -44,10 +44,53 @@ import logo from './logo.svg';
 export default Header;
 ```
 
+Creaing `Intro.js`
+```
+import React, { Component } from 'react';
+
+class Intro extends Component {
+  render(){
+    return(
+      <div>
+        <p className="App-intro">
+          <h1> HELLO WORLD</h1>
+          <p> First react program with React components </p>
+          This is loading from <b>Intro</b> Component.
+        </p> 
+      </div>
+    );
+  }
+}
+
+export default Intro;
 
 
+```
+ 
 ## Step3 :
 Import Header and Intro and use in Apps.js 
+
+`App.js` Code Import `Header.js` and `Intro.js`
+
+```
+import React, { Component } from 'react';
+
+class Intro extends Component {
+  render(){
+    return(
+      <div>
+        <p className="App-intro">
+          <h1> HELLO WORLD</h1>
+          <p> First react program with React components </p>
+          This is loading from <b>Intro</b> Component.
+        </p> 
+      </div>
+    );
+  }
+}
+
+export default Intro;
+```
 
 
 
